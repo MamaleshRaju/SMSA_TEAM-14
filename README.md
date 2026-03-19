@@ -35,7 +35,7 @@ This project focuses on building a Social Media Analytics Data Warehouse integra
 https://www.kaggle.com/datasets/subashmaster0411/social-media-engagement-dataset  
 
 **Number of Observations:**  
-(UPDATE after checking dataset, e.g., ~10,000 rows)  
+ 12,001 rows  
 
 **Number of Variables:**  
 26  
